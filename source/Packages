@@ -4,7 +4,7 @@ Architecture: all
 Maintainer: Bernardo Aparicio bernardo.contato2020@gmail.com
 Installed-Size: in_kb
 Depends: git
-Filename: ./Pylogin_1.0.0.deb
+Filename: ./pylogin.deb
 Size: 2500
 MD5sum: 27461b9242ec51fadde37cc32c86e5e5
 SHA1: eec1d66eb4b0d691a382d8202708f34e1a66e2fb
