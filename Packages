@@ -1,0 +1,17 @@
+Package: Pylogin
+Version: 1.0
+Architecture: all
+Maintainer: Bernardo Aparicio bernardo.contato2020@gmail.com
+Installed-Size: in_kb
+Depends: git
+Filename: ./Pylogin_v1.deb
+Size: 2500
+MD5sum: 27461b9242ec51fadde37cc32c86e5e5
+SHA1: eec1d66eb4b0d691a382d8202708f34e1a66e2fb
+SHA256: eccccc970107b7ec00fe022e9d2a1273437f4dd142e6ff27032468affb064729
+Description: A login system for simple webpages
+ Pylogin is a simple login system made for simple programs.
+ Pylogin is made of the initialization script, in python, and the main script(log on github), in JS, HTML and CSS, all in the structure created by react JS.
+Bulid-Depends: ${python3:Depends}, debhelper (>=10)
+License: GPLv3
+
